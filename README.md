@@ -1,5 +1,5 @@
-## 👋 Hello, I'm [Your Name]!
-# 💻 About Me
+# 👋 Hello, I'm Alex Cottam!
+## 💻 About Me
 I'm an iOS and Web Developer who loves building web and mobile apps, and CLI tools for myself and other devs. My journey in tech began with building my first ever website while in school, watching the page come to life, and I'm always eager to learn new technologies and solve complex problems.
 
 🔭 I’m currently working on a CLI Chat tool that allows devs to chat with each other in the command line.
@@ -15,7 +15,7 @@ I'm an iOS and Web Developer who loves building web and mobile apps, and CLI too
 🛠️ Skills & Technologies
 Here are some of the tools and technologies I use:
 
-# Languages:
+## Languages:
 
 [Icon for Language] - Javascript
 
@@ -23,13 +23,13 @@ Here are some of the tools and technologies I use:
 
 [Icon for Language] - Python
 
-# Frontend:
+## Frontend:
 
 [Icon for Frontend] React
 
 [Icon for Frontend] WordPress
 
-# Backend:
+## Backend:
 
 [Icon for Backend] Node.js
 
@@ -37,13 +37,13 @@ Here are some of the tools and technologies I use:
 
 [Icon for Backend] Django
 
-# Databases:
+## Databases:
 
 [Icon for Database] MySql
 
 [Icon for Database] MongoDB
 
-# Tools & Platforms:
+## Tools & Platforms:
 
 [Icon for Tool] Google Cloud Platform
 
@@ -51,8 +51,8 @@ Here are some of the tools and technologies I use:
 
 [Icon for Tool] AWS
 
-# 🚀 Featured Projects
-Ignore CLI
+## 🚀 Featured Projects
+### Ignore CLI
 
 Description: A CLI tool that scans your project and generates a .gitignore file for you based on what your project needs! (Currently Python only, but more on the way!)
 
@@ -60,7 +60,7 @@ Technologies Used: Python
 
 https://github.com/notacoham/ignore-cli
 
-🤝 Connect with me
+## 🤝 Connect with me
 I'm always open to new opportunities and collaborations. Feel free to reach out to me!
 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
