@@ -17,7 +17,7 @@ Here are some of the tools and technologies I use:
 
 ## Languages:
 
-[Icon for Language] - Javascript
+[!["Javascript Icon"](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)] - Javascript
 
 [Icon for Language] - Typescript
 
@@ -64,5 +64,4 @@ https://github.com/notacoham/ignore-cli
 I'm always open to new opportunities and collaborations. Feel free to reach out to me!
 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=About.me&logoColor=white" />
