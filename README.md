@@ -17,7 +17,7 @@ Here are some of the tools and technologies I use:
 
 ## Languages:
 
-[!["Javascript Icon"](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)] - Javascript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> - Javascript
 
 [Icon for Language] - Typescript
 
