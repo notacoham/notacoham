@@ -63,6 +63,6 @@ https://github.com/notacoham/ignore-cli
 ## 🤝 Connect with me
 I'm always open to new opportunities and collaborations. Feel free to reach out to me!
 
-<a href="www.linkedin.com/in/alex-jinoo-cottam" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="width: 32px; height: 32px" /></a>
+[Connect with me on LinkedIn!](www.linkedin.com/in/alex-jinoo-cottam)
           
-<a href="www.alexcottam.com" target="_blank">Portfolio Site</a>
+[Visit my Portfolio Site!](www.alexcottam.com)
