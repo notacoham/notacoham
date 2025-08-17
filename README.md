@@ -17,39 +17,39 @@ Here are some of the tools and technologies I use:
 
 ## Languages:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 10px; height: 10px" /> - Javascript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 32px; height: 32px" /> - Javascript
 
-[Icon for Language] - Typescript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width: 32px; height: 32px" /> - Typescript
 
-[Icon for Language] - Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 32px; height: 32px" /> - Python
 
 ## Frontend:
 
-[Icon for Frontend] React
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 32px; height: 32px" /> - React
 
-[Icon for Frontend] WordPress
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" style="width: 32px; height: 32px" /> - WordPress
 
 ## Backend:
 
-[Icon for Backend] Node.js
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" style="width: 32px; height: 32px" /> - Node.js
 
-[Icon for Backend] Express
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="width: 32px; height: 32px" /> - Express
 
-[Icon for Backend] Django
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" style="width: 32px; height: 32px" /> - Django
 
 ## Databases:
 
-[Icon for Database] MySql
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="width: 32px; height: 32px" /> - MySql
 
-[Icon for Database] MongoDB
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="width: 32px; height: 32px" /> - MongoDB
 
 ## Tools & Platforms:
 
-[Icon for Tool] Google Cloud Platform
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" style="width: 32px; height: 32px" /> - Google Cloud Platform
 
-[Icon for Tool] Firebase
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" style="width: 32px; height: 32px" /> - Firebase
 
-[Icon for Tool] AWS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="width: 32px; height: 32px" /> - AWS
 
 ## 🚀 Featured Projects
 ### Ignore CLI
@@ -63,5 +63,6 @@ https://github.com/notacoham/ignore-cli
 ## 🤝 Connect with me
 I'm always open to new opportunities and collaborations. Feel free to reach out to me!
 
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=About.me&logoColor=white" />
+<a href="www.linkedin.com/in/alex-jinoo-cottam" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="width: 32px; height: 32px" /></a>
+          
+<a href="www.alexcottam.com" target="_blank">Portfolio Site</a>
